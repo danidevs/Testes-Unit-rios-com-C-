@@ -39,6 +39,26 @@ public class CalculadoraTests
         Assert.True ( resulatdo);
     }
 
+    [Theory]
+
+    [InlineData (2)]
+    [InlineData (4)]
+    [InlineData (6)]
+    [InlineData (8)]
+    [InlineData (10)]
+    
+        public void DeveVerificarSeOsNumerosSaoParesERetornarVerdadeiro (int nurmero)
+
+        {
+            // act
+            bool resultado = _calc.EhPar (nurmero);
+
+            // Assert
+            Assert.True (resultado);
+        }
+
+        
+
 }
 
 

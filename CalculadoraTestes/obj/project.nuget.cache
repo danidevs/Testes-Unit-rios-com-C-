@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SGcK36H63dO9+vLafglWv2aIO6Ai6TwGhaeyVX05F5SBu/6NNgN7b1SMTnFYaPA6nq6RmlU48/MmoiBfhV6TiA==",
+  "dgSpecHash": "N3mvpyteLxt6En6+e/0YGMLIR7TBZ9Stag9eLiMwcGyzeJ14l2+JSw5qztTaW73j9uSIWl1WVRT8N+EbrC1kUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniel\\OneDrive\\Área de Trabalho\\Dani Devs\\projetos Dio\\ModuloTestes\\calculadoraTestes\\CalculadoraTestes.csproj",
+  "projectFilePath": "C:\\Users\\Daniel\\OneDrive\\Área de Trabalho\\Dani Devs\\projetos Dio\\ModuloTestes\\CalculadoraTestes\\CalculadoraTestes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniel\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
